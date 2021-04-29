@@ -1,0 +1,15 @@
+Orthogroup	c_elegans_ref_protein	s_feltiae
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	L889_g21807.t1 transcript=L889_g21807.t1 gene=L889_g21807
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	L889_g9972.t2 transcript=L889_g9972.t2 gene=L889_g9972, L889_g9972.t1 transcript=L889_g9972.t1 gene=L889_g9972, L889_g9972.t3 transcript=L889_g9972.t3 gene=L889_g9972
+OG0000239	CDC-42	L889_g25758.t1 transcript=L889_g25758.t1 gene=L889_g25758, L889_g30779.t1 transcript=L889_g30779.t1 gene=L889_g30779
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	L889_g28206.t2 transcript=L889_g28206.t2 gene=L889_g28206, L889_g28206.t1 transcript=L889_g28206.t1 gene=L889_g28206, L889_g28808.t1 transcript=L889_g28808.t1 gene=L889_g28808
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	L889_g16930.t1 transcript=L889_g16930.t1 gene=L889_g16930, L889_g18652.t1 transcript=L889_g18652.t1 gene=L889_g18652, L889_g20311.t2 transcript=L889_g20311.t2 gene=L889_g20311, L889_g20311.t1 transcript=L889_g20311.t1 gene=L889_g20311
+OG0000571	PAR-2_ isoform c	L889_g4656.t1 transcript=L889_g4656.t1 gene=L889_g4656
+OG0000622	RHO-1_ isoform a	L889_g27476.t1 transcript=L889_g27476.t1 gene=L889_g27476, L889_g28291.t1 transcript=L889_g28291.t1 gene=L889_g28291
+OG0000822	PAR-5_ isoform b	L889_g6975.t1 transcript=L889_g6975.t1 gene=L889_g6975, L889_g18217.t1 transcript=L889_g18217.t1 gene=L889_g18217
+OG0000822	PAR-5_ isoform a	L889_g5520.t1 transcript=L889_g5520.t1 gene=L889_g5520, L889_g19038.t1 transcript=L889_g19038.t1 gene=L889_g19038
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	L889_g24760.t1 transcript=L889_g24760.t1 gene=L889_g24760
+OG0000870	CYK-4	L889_g28323.t1 transcript=L889_g28323.t1 gene=L889_g28323, L889_g24648.t1 transcript=L889_g24648.t1 gene=L889_g24648, L889_g24649.t1 transcript=L889_g24649.t1 gene=L889_g24649, L889_g17944.t1 transcript=L889_g17944.t1 gene=L889_g17944, L889_g17943.t1 transcript=L889_g17943.t1 gene=L889_g17943
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	L889_g32022.t1 transcript=L889_g32022.t1 gene=L889_g32022
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	L889_g29584.t1 transcript=L889_g29584.t1 gene=L889_g29584
+OG0006648	LGL-1	L889_g30041.t1 transcript=L889_g30041.t1 gene=L889_g30041

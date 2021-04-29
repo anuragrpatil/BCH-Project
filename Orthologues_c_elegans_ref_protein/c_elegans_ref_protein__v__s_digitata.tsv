@@ -1,0 +1,12 @@
+Orthogroup	c_elegans_ref_protein	s_digitata
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a, SRC-1_ isoform c	sdigi.contig24.g2005.t1 transcript=sdigi.contig24.g2005.t1 gene=sdigi.contig24.g2005
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	sdigi.contig38.g2562.t1 transcript=sdigi.contig38.g2562.t1 gene=sdigi.contig38.g2562
+OG0000239	CDC-42	sdigi.contig666.g9422.t1 transcript=sdigi.contig666.g9422.t1 gene=sdigi.contig666.g9422
+OG0000300	PKC-3	sdigi.contig267.g6874.t1 transcript=sdigi.contig267.g6874.t1 gene=sdigi.contig267.g6874
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	sdigi.contig68.g3501.t1 transcript=sdigi.contig68.g3501.t1 gene=sdigi.contig68.g3501
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	sdigi.contig104.g4407.t1 transcript=sdigi.contig104.g4407.t1 gene=sdigi.contig104.g4407, sdigi.contig104.g4398.t1 transcript=sdigi.contig104.g4398.t1 gene=sdigi.contig104.g4398
+OG0000571	PAR-2_ isoform c	sdigi.contig131.g4976.t1 transcript=sdigi.contig131.g4976.t1 gene=sdigi.contig131.g4976
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	sdigi.contig1.g89.t1 transcript=sdigi.contig1.g89.t1 gene=sdigi.contig1.g89
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	sdigi.contig784.g9752.t1 transcript=sdigi.contig784.g9752.t1 gene=sdigi.contig784.g9752
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	sdigi.contig18.g1616.t1 transcript=sdigi.contig18.g1616.t1 gene=sdigi.contig18.g1616
+OG0006648	LGL-1	sdigi.contig46.g2862.t1 transcript=sdigi.contig46.g2862.t1 gene=sdigi.contig46.g2862

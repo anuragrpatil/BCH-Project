@@ -1,0 +1,19 @@
+Orthogroup	c_elegans_ref_protein	c_bovis
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	CBOVI.g10413.t3 transcript=CBOVI.g10413.t3 gene=CBOVI.g10413, CBOVI.g10413.t1 transcript=CBOVI.g10413.t1 gene=CBOVI.g10413, CBOVI.g10413.t2 transcript=CBOVI.g10413.t2 gene=CBOVI.g10413
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d	CBOVI.g2170.t2 transcript=CBOVI.g2170.t2 gene=CBOVI.g2170, CBOVI.g2170.t1 transcript=CBOVI.g2170.t1 gene=CBOVI.g2170, CBOVI.g2170.t3 transcript=CBOVI.g2170.t3 gene=CBOVI.g2170
+OG0000006	NMY-2	CBOVI.g10027.t1 transcript=CBOVI.g10027.t1 gene=CBOVI.g10027, CBOVI.g10027.t2 transcript=CBOVI.g10027.t2 gene=CBOVI.g10027, CBOVI.g10027.t3 transcript=CBOVI.g10027.t3 gene=CBOVI.g10027
+OG0000239	CDC-42	CBOVI.g12714.t1 transcript=CBOVI.g12714.t1 gene=CBOVI.g12714
+OG0000300	PKC-3	CBOVI.g12737.t1 transcript=CBOVI.g12737.t1 gene=CBOVI.g12737
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CBOVI.g6952.t2 transcript=CBOVI.g6952.t2 gene=CBOVI.g6952, CBOVI.g6952.t1 transcript=CBOVI.g6952.t1 gene=CBOVI.g6952
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CBOVI.g999.t1 transcript=CBOVI.g999.t1 gene=CBOVI.g999
+OG0000571	PAR-2_ isoform a, PAR-2_ isoform b	CBOVI.g5310.t1 transcript=CBOVI.g5310.t1 gene=CBOVI.g5310
+OG0000622	RHO-1_ isoform a	CBOVI.g8093.t1 transcript=CBOVI.g8093.t1 gene=CBOVI.g8093
+OG0000822	PAR-5_ isoform a	CBOVI.g8090.t1 transcript=CBOVI.g8090.t1 gene=CBOVI.g8090
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CBOVI.g4320.t1 transcript=CBOVI.g4320.t1 gene=CBOVI.g4320
+OG0000870	CYK-4	CBOVI.g1431.t1 transcript=CBOVI.g1431.t1 gene=CBOVI.g1431
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CBOVI.g7095.t1 transcript=CBOVI.g7095.t1 gene=CBOVI.g7095
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CBOVI.g1217.t1 transcript=CBOVI.g1217.t1 gene=CBOVI.g1217
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CBOVI.g10143.t1 transcript=CBOVI.g10143.t1 gene=CBOVI.g10143
+OG0006104	MES-1	CBOVI.g3857.t1 transcript=CBOVI.g3857.t1 gene=CBOVI.g3857
+OG0006648	LGL-1	CBOVI.g3761.t1 transcript=CBOVI.g3761.t1 gene=CBOVI.g3761
+OG0011556	GPR-2, GPR-1	CBOVI.g6869.t1 transcript=CBOVI.g6869.t1 gene=CBOVI.g6869

@@ -1,0 +1,13 @@
+Orthogroup	c_elegans_ref_protein	p_redivivus
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	Pan_g11679.t2 transcript=Pan_g11679.t2 gene=Pan_g11679, Pan_g11679.t1 transcript=Pan_g11679.t1 gene=Pan_g11679, Pan_g3662.t1 transcript=Pan_g3662.t1 gene=Pan_g3662
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	Pan_g20120.t1 transcript=Pan_g20120.t1 gene=Pan_g20120
+OG0000239	CDC-42	Pan_g7536.t1 transcript=Pan_g7536.t1 gene=Pan_g7536
+OG0000300	PKC-3	Pan_g1828.t1 transcript=Pan_g1828.t1 gene=Pan_g1828
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	Pan_g12890.t1 transcript=Pan_g12890.t1 gene=Pan_g12890
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	Pan_g15423.t1 transcript=Pan_g15423.t1 gene=Pan_g15423, Pan_g13277.t1 transcript=Pan_g13277.t1 gene=Pan_g13277, Pan_g383.t1 transcript=Pan_g383.t1 gene=Pan_g383
+OG0000571	PAR-2_ isoform c	Pan_g4388.t1 transcript=Pan_g4388.t1 gene=Pan_g4388
+OG0000622	RHO-1_ isoform a	Pan_g18257.t1 transcript=Pan_g18257.t1 gene=Pan_g18257, Pan_g18203.t1 transcript=Pan_g18203.t1 gene=Pan_g18203
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	Pan_g18392.t1 transcript=Pan_g18392.t1 gene=Pan_g18392
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	Pan_g10620.t1 transcript=Pan_g10620.t1 gene=Pan_g10620
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	Pan_g16625.t1 transcript=Pan_g16625.t1 gene=Pan_g16625
+OG0006648	LGL-1	Pan_g14351.t1 transcript=Pan_g14351.t1 gene=Pan_g14351

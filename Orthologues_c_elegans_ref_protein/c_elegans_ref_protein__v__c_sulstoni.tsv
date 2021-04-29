@@ -1,0 +1,18 @@
+Orthogroup	c_elegans_ref_protein	c_sulstoni
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	CSP32.g17556.t1 transcript=CSP32.g17556.t1 gene=CSP32.g17556, CSP32.g17556.t2 transcript=CSP32.g17556.t2 gene=CSP32.g17556
+OG0000006	NMY-2	CSP32.g11913.t1 transcript=CSP32.g11913.t1 gene=CSP32.g11913
+OG0000239	CDC-42	CSP32.g16816.t1 transcript=CSP32.g16816.t1 gene=CSP32.g16816
+OG0000300	PKC-3	CSP32.g3642.t1 transcript=CSP32.g3642.t1 gene=CSP32.g3642
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CSP32.g2436.t3 transcript=CSP32.g2436.t3 gene=CSP32.g2436, CSP32.g2436.t4 transcript=CSP32.g2436.t4 gene=CSP32.g2436, CSP32.g2436.t2 transcript=CSP32.g2436.t2 gene=CSP32.g2436, CSP32.g2436.t1 transcript=CSP32.g2436.t1 gene=CSP32.g2436
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CSP32.g16977.t1 transcript=CSP32.g16977.t1 gene=CSP32.g16977
+OG0000571	PAR-2_ isoform a, PAR-2_ isoform b	CSP32.g10588.t1 transcript=CSP32.g10588.t1 gene=CSP32.g10588
+OG0000571	PAR-2_ isoform c	CSP32.g13616.t1 transcript=CSP32.g13616.t1 gene=CSP32.g13616
+OG0000622	RHO-1_ isoform a	CSP32.g2138.t1 transcript=CSP32.g2138.t1 gene=CSP32.g2138
+OG0000822	PAR-5_ isoform a	CSP32.g10144.t1 transcript=CSP32.g10144.t1 gene=CSP32.g10144
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CSP32.g15970.t2 transcript=CSP32.g15970.t2 gene=CSP32.g15970, CSP32.g15970.t1 transcript=CSP32.g15970.t1 gene=CSP32.g15970
+OG0000870	CYK-4	CSP32.g4899.t2 transcript=CSP32.g4899.t2 gene=CSP32.g4899, CSP32.g4899.t1 transcript=CSP32.g4899.t1 gene=CSP32.g4899
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CSP32.g8666.t1 transcript=CSP32.g8666.t1 gene=CSP32.g8666
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CSP32.g2486.t1 transcript=CSP32.g2486.t1 gene=CSP32.g2486
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CSP32.g4758.t1 transcript=CSP32.g4758.t1 gene=CSP32.g4758
+OG0006104	MES-1	CSP32.g12116.t1 transcript=CSP32.g12116.t1 gene=CSP32.g12116
+OG0011556	GPR-2, GPR-1	CSP32.g11377.t1 transcript=CSP32.g11377.t1 gene=CSP32.g11377

@@ -1,0 +1,13 @@
+Orthogroup	c_elegans_ref_protein	loa_loa
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a, SRC-1_ isoform c	EN70_4164 transcript=EN70_4164 gene=EN70_4164
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	EN70_862 transcript=EN70_862 gene=EN70_862
+OG0000006	NMY-2	EN70_3000 transcript=EN70_3000 gene=EN70_3000
+OG0000239	CDC-42	EN70_3689 transcript=EN70_3689 gene=EN70_3689
+OG0000300	PKC-3	EN70_8691 transcript=EN70_8691 gene=EN70_8691
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	EN70_1767 transcript=EN70_1767 gene=EN70_1767, EN70_1977 transcript=EN70_1977 gene=EN70_1977
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	EN70_9412 transcript=EN70_9412 gene=EN70_9412, EN70_9405 transcript=EN70_9405 gene=EN70_9405
+OG0000571	PAR-2_ isoform c	EN70_5497 transcript=EN70_5497 gene=EN70_5497
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	EN70_3502 transcript=EN70_3502 gene=EN70_3502
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	EN70_5839 transcript=EN70_5839 gene=EN70_5839
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	EN70_8279 transcript=EN70_8279 gene=EN70_8279
+OG0006648	LGL-1	EN70_1469 transcript=EN70_1469 gene=EN70_1469

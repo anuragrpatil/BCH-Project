@@ -1,0 +1,19 @@
+Orthogroup	c_elegans_ref_protein	c_panamensis
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	CSP28.g14758.t1 transcript=CSP28.g14758.t1 gene=CSP28.g14758
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d	CSP28.g22133.t1 transcript=CSP28.g22133.t1 gene=CSP28.g22133
+OG0000006	NMY-2	CSP28.g2909.t1 transcript=CSP28.g2909.t1 gene=CSP28.g2909
+OG0000239	CDC-42	CSP28.g12263.t1 transcript=CSP28.g12263.t1 gene=CSP28.g12263
+OG0000300	PKC-3	CSP28.g16938.t1 transcript=CSP28.g16938.t1 gene=CSP28.g16938
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CSP28.g4675.t1 transcript=CSP28.g4675.t1 gene=CSP28.g4675, CSP28.g21987.t1 transcript=CSP28.g21987.t1 gene=CSP28.g21987, CSP28.g4874.t1 transcript=CSP28.g4874.t1 gene=CSP28.g4874, CSP28.g1171.t3 transcript=CSP28.g1171.t3 gene=CSP28.g1171, CSP28.g1171.t2 transcript=CSP28.g1171.t2 gene=CSP28.g1171, CSP28.g4875.t2 transcript=CSP28.g4875.t2 gene=CSP28.g4875, CSP28.g4875.t1 transcript=CSP28.g4875.t1 gene=CSP28.g4875, CSP28.g1171.t1 transcript=CSP28.g1171.t1 gene=CSP28.g1171
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CSP28.g4054.t1 transcript=CSP28.g4054.t1 gene=CSP28.g4054
+OG0000571	PAR-2_ isoform a	CSP28.g12888.t1 transcript=CSP28.g12888.t1 gene=CSP28.g12888
+OG0000571	PAR-2_ isoform b	CSP28.g12886.t1 transcript=CSP28.g12886.t1 gene=CSP28.g12886
+OG0000622	RHO-1_ isoform a	CSP28.g7626.t1 transcript=CSP28.g7626.t1 gene=CSP28.g7626
+OG0000822	PAR-5_ isoform a	CSP28.g10964.t1 transcript=CSP28.g10964.t1 gene=CSP28.g10964
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CSP28.g9617.t1 transcript=CSP28.g9617.t1 gene=CSP28.g9617
+OG0000870	CYK-4	CSP28.g13709.t1 transcript=CSP28.g13709.t1 gene=CSP28.g13709
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CSP28.g22029.t1 transcript=CSP28.g22029.t1 gene=CSP28.g22029
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CSP28.g4866.t2 transcript=CSP28.g4866.t2 gene=CSP28.g4866, CSP28.g4866.t1 transcript=CSP28.g4866.t1 gene=CSP28.g4866
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CSP28.g3838.t1 transcript=CSP28.g3838.t1 gene=CSP28.g3838
+OG0006104	MES-1	CSP28.g17934.t1 transcript=CSP28.g17934.t1 gene=CSP28.g17934
+OG0011556	GPR-2, GPR-1	CSP28.g20084.t1 transcript=CSP28.g20084.t1 gene=CSP28.g20084

@@ -1,0 +1,15 @@
+Orthogroup	c_elegans_ref_protein	t_britovi
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a, SRC-1_ isoform c	T03_9070.1 transcript=T03_9070.1 gene=T03_9070
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	T03_3221.1 transcript=T03_3221.1 gene=T03_3221
+OG0000239	CDC-42	T03_6448.1 transcript=T03_6448.1 gene=T03_6448
+OG0000300	PKC-3	T03_6621.3 transcript=T03_6621.3 gene=T03_6621, T03_6621.2 transcript=T03_6621.2 gene=T03_6621, T03_6621.1 transcript=T03_6621.1 gene=T03_6621
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	T03_10437.3 transcript=T03_10437.3 gene=T03_10437, T03_10437.1 transcript=T03_10437.1 gene=T03_10437, T03_10437.2 transcript=T03_10437.2 gene=T03_10437
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	T03_16542.1 transcript=T03_16542.1 gene=T03_16542, T03_2575.1 transcript=T03_2575.1 gene=T03_2575
+OG0000622	RHO-1_ isoform a	T03_6717.1 transcript=T03_6717.1 gene=T03_6717
+OG0000822	PAR-5_ isoform b, PAR-5_ isoform a	T03_15580.2 transcript=T03_15580.2 gene=T03_15580, T03_15580.3 transcript=T03_15580.3 gene=T03_15580, T03_15580.1 transcript=T03_15580.1 gene=T03_15580
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	T03_8604.1 transcript=T03_8604.1 gene=T03_8604
+OG0000870	CYK-4	T03_1531.1 transcript=T03_1531.1 gene=T03_1531, T03_1531.2 transcript=T03_1531.2 gene=T03_1531, T03_8848.3 transcript=T03_8848.3 gene=T03_8848, T03_8848.2 transcript=T03_8848.2 gene=T03_8848, T03_8848.1 transcript=T03_8848.1 gene=T03_8848
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	T03_3689.1 transcript=T03_3689.1 gene=T03_3689, T03_12674.1 transcript=T03_12674.1 gene=T03_12674, T03_13646.1 transcript=T03_13646.1 gene=T03_13646
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	T03_10997.1 transcript=T03_10997.1 gene=T03_10997
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	T03_16392.2 transcript=T03_16392.2 gene=T03_16392
+OG0006648	LGL-1	T03_17230.2 transcript=T03_17230.2 gene=T03_17230, T03_17230.1 transcript=T03_17230.1 gene=T03_17230

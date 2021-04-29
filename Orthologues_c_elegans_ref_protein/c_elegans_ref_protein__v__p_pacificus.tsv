@@ -1,0 +1,13 @@
+Orthogroup	c_elegans_ref_protein	p_pacificus
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	PPA41998 wormpep=PP62109 gene=WBGene00280367 locus=Ppa-par-1.1 status=Predicted, PPA12902 wormpep=PP64120 gene=WBGene00102456 locus=Ppa-par-1.2 status=Partially_confirmed
+OG0000002	PAR-1_ isoform i, PAR-1_ isoform h	PPA42000 wormpep=PP65124 gene=WBGene00280369 status=Predicted
+OG0000006	NMY-2	PPA16200 wormpep=PP58915 gene=WBGene00105754 locus=Ppa-nmy-2 status=Partially_confirmed
+OG0000300	PKC-3	PPA28344 wormpep=PP72606 gene=WBGene00117898 locus=Ppa-pkc-3 status=Predicted
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	PPA40079 wormpep=PP22850 gene=WBGene00278448 status=Partially_confirmed
+OG0000622	RHO-1_ isoform a	PPA01578 wormpep=PP59544 gene=WBGene00091132 locus=Ppa-rho-1 status=Confirmed
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	PPA05705 wormpep=PP54753 gene=WBGene00095259 locus=Ppa-par-3 status=Predicted
+OG0000870	CYK-4	PPA13635 wormpep=PP67124 gene=WBGene00103189 locus=Ppa-cyk-4 status=Partially_confirmed
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	PPA47110 wormpep=PP75332 gene=WBGene00304968 locus=Ppa-par-4 status=Partially_confirmed
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	PPA43308 wormpep=PP72540 gene=WBGene00281677 status=Predicted
+OG0006104	MES-1	PPA21748 wormpep=PP69572 gene=WBGene00111302 status=Partially_confirmed
+OG0006648	LGL-1	PPA07490 wormpep=PP67324 gene=WBGene00097044 locus=Ppa-lgl-1 status=Predicted

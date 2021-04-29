@@ -1,0 +1,15 @@
+Orthogroup	c_elegans_ref_protein	p_maxplancki
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	maxplancki-mkr-S862-0.2-mRNA-1 transcript=maxplancki-mkr-S862-0.2-mRNA-1 gene=maxplancki-mkr-S862-0.2-mRNA-1
+OG0000000	SRC-1_ isoform d	maxplancki-mkr-S966-0.2-mRNA-1 transcript=maxplancki-mkr-S966-0.2-mRNA-1 gene=maxplancki-mkr-S966-0.2-mRNA-1
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	maxplancki-mkr-S283-0.28-mRNA-1 transcript=maxplancki-mkr-S283-0.28-mRNA-1 gene=maxplancki-mkr-S283-0.28-mRNA-1, maxplancki-mkr-S584-0.33-mRNA-1 transcript=maxplancki-mkr-S584-0.33-mRNA-1 gene=maxplancki-mkr-S584-0.33-mRNA-1
+OG0000006	NMY-2	maxplancki-mkr-S235-4.96-mRNA-1 transcript=maxplancki-mkr-S235-4.96-mRNA-1 gene=maxplancki-mkr-S235-4.96-mRNA-1, maxplancki-mkr-S127-3.26-mRNA-1 transcript=maxplancki-mkr-S127-3.26-mRNA-1 gene=maxplancki-mkr-S127-3.26-mRNA-1
+OG0000239	CDC-42	maxplancki-mkr-S51-3.6-mRNA-1 transcript=maxplancki-mkr-S51-3.6-mRNA-1 gene=maxplancki-mkr-S51-3.6-mRNA-1
+OG0000300	PKC-3	maxplancki-mkr-S19-5.9-mRNA-1 transcript=maxplancki-mkr-S19-5.9-mRNA-1 gene=maxplancki-mkr-S19-5.9-mRNA-1
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	maxplancki-mkr-S253-0.7-mRNA-1 transcript=maxplancki-mkr-S253-0.7-mRNA-1 gene=maxplancki-mkr-S253-0.7-mRNA-1
+OG0000622	RHO-1_ isoform a	maxplancki-mkr-S239-1.77-mRNA-1 transcript=maxplancki-mkr-S239-1.77-mRNA-1 gene=maxplancki-mkr-S239-1.77-mRNA-1
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	maxplancki-mkr-S526-0.15-mRNA-1 transcript=maxplancki-mkr-S526-0.15-mRNA-1 gene=maxplancki-mkr-S526-0.15-mRNA-1
+OG0000870	CYK-4	maxplancki-mkr-S112-3.44-mRNA-1 transcript=maxplancki-mkr-S112-3.44-mRNA-1 gene=maxplancki-mkr-S112-3.44-mRNA-1
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	maxplancki-mkr-S521-1.25-mRNA-1 transcript=maxplancki-mkr-S521-1.25-mRNA-1 gene=maxplancki-mkr-S521-1.25-mRNA-1
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	maxplancki-mkr-S294-0.1-mRNA-1 transcript=maxplancki-mkr-S294-0.1-mRNA-1 gene=maxplancki-mkr-S294-0.1-mRNA-1
+OG0006104	MES-1	maxplancki-ag_msk-S2-1.60-mRNA-1 transcript=maxplancki-ag_msk-S2-1.60-mRNA-1 gene=maxplancki-ag_msk-S2-1.60-mRNA-1
+OG0006648	LGL-1	maxplancki-mkr-S40-1.36-mRNA-1 transcript=maxplancki-mkr-S40-1.36-mRNA-1 gene=maxplancki-mkr-S40-1.36-mRNA-1

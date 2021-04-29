@@ -1,0 +1,22 @@
+{
+  "name": "coevolutionary_analysis_project",
+  "homepage": "https://github.com/creativetimofficial/material-kit-react",
+  "authors": [
+    "creative-tim"
+  ],
+  "description": "coevolutionary analysis project",
+  "main": "dist/index.js",
+  "keywords": [
+    "coevolutionary analysis"
+  
+  ],
+  "license": "Creative TIM License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

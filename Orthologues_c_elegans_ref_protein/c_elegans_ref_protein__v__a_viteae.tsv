@@ -1,0 +1,12 @@
+Orthogroup	c_elegans_ref_protein	a_viteae
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a, SRC-1_ isoform c	nAv.1.0.1.t02213-RA transcript=nAv.1.0.1.t02213-RA gene=nAv.1.0.1.g02213
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	nAv.1.0.1.t09244-RA transcript=nAv.1.0.1.t09244-RA gene=nAv.1.0.1.g09244
+OG0000239	CDC-42	nAv.1.0.1.t03295-RA transcript=nAv.1.0.1.t03295-RA gene=nAv.1.0.1.g03295
+OG0000300	PKC-3	nAv.1.0.1.t10123-RA transcript=nAv.1.0.1.t10123-RA gene=nAv.1.0.1.g10123
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	nAv.1.0.1.t08577-RA transcript=nAv.1.0.1.t08577-RA gene=nAv.1.0.1.g08577
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	nAv.1.0.1.t04348-RA transcript=nAv.1.0.1.t04348-RA gene=nAv.1.0.1.g04348, nAv.1.0.1.t04934-RA transcript=nAv.1.0.1.t04934-RA gene=nAv.1.0.1.g04934
+OG0000571	PAR-2_ isoform c	nAv.1.0.1.t03681-RA transcript=nAv.1.0.1.t03681-RA gene=nAv.1.0.1.g03681
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	nAv.1.0.1.t07932-RA transcript=nAv.1.0.1.t07932-RA gene=nAv.1.0.1.g07932
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	nAv.1.0.1.t09584-RA transcript=nAv.1.0.1.t09584-RA gene=nAv.1.0.1.g09584
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	nAv.1.0.1.t05407-RA transcript=nAv.1.0.1.t05407-RA gene=nAv.1.0.1.g05407
+OG0006648	LGL-1	nAv.1.0.1.t05280-RA transcript=nAv.1.0.1.t05280-RA gene=nAv.1.0.1.g05280

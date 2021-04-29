@@ -1,0 +1,18 @@
+Orthogroup	c_elegans_ref_protein	c_japonica
+OG0000000	SRC-1_ isoform d	CJA12320 wormpep=JA46783 gene=WBGene00131524 locus=Cjp-src-1 status=Confirmed
+OG0000002	PAR-1_ isoform h	CJA02605 wormpep=JA45763 gene=WBGene00121809 status=Partially_confirmed
+OG0000006	NMY-2	CJA01896 wormpep=JA63013 gene=WBGene00121100 locus=Cjp-nmy-2 status=Partially_confirmed
+OG0000239	CDC-42	CJA07809 wormpep=JA06605 gene=WBGene00127013 locus=Cjp-cdc-42 status=Confirmed
+OG0000300	PKC-3	CJA02163 wormpep=JA61832 gene=WBGene00121367 locus=Cjp-pkc-3 status=Partially_confirmed
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CJA09404 wormpep=JA60875 gene=WBGene00128609 locus=Cjp-ect-2 status=Confirmed
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CJA08289 wormpep=JA00866 gene=WBGene00127494 locus=Cjp-air-1 status=Confirmed
+OG0000571	PAR-2_ isoform b	CJA06614 wormpep=JA57546 gene=WBGene00125818 status=Confirmed, CJA32240 wormpep=JA60477 gene=WBGene00208087 status=Predicted
+OG0000822	PAR-5_ isoform a	CJA06335 wormpep=JA11542 gene=WBGene00125539 locus=Cjp-par-5 status=Confirmed
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CJA39314 wormpep=JA42943 gene=WBGene00215161 status=Predicted, CJA37277c wormpep=JA45322 gene=WBGene00213124 status=Partially_confirmed, CJA37277b wormpep=JA56624 gene=WBGene00213124 status=Partially_confirmed, CJA37277a wormpep=JA52530 gene=WBGene00213124 status=Partially_confirmed, CJA13939 wormpep=JA66701 gene=WBGene00133143 locus=Cjp-par-3 status=Confirmed
+OG0000870	CYK-4	CJA11430 wormpep=JA38145 gene=WBGene00130634 locus=Cjp-cyk-4 status=Confirmed
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CJA16666 wormpep=JA02272 gene=WBGene00135870 status=Confirmed
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CJA16340 wormpep=JA54582 gene=WBGene00135544 locus=Cjp-par-4 status=Partially_confirmed
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CJA06695 wormpep=JA55142 gene=WBGene00125899 locus=Cjp-par-6 status=Confirmed
+OG0006104	MES-1	CJA01407 wormpep=JA66550 gene=WBGene00120611 status=Confirmed
+OG0006648	LGL-1	CJA06563 wormpep=JA65764 gene=WBGene00125767 locus=Cjp-lgl-1 status=Confirmed
+OG0011556	GPR-2, GPR-1	CJA32909 wormpep=JA49025 gene=WBGene00208756 status=Confirmed

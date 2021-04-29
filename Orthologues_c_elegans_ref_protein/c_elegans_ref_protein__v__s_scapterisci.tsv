@@ -1,0 +1,14 @@
+Orthogroup	c_elegans_ref_protein	s_scapterisci
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	L892_g2219.t1 transcript=L892_g2219.t1 gene=L892_g2219
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	L892_g24880.t1 transcript=L892_g24880.t1 gene=L892_g24880
+OG0000239	CDC-42	L892_g16465.t1 transcript=L892_g16465.t1 gene=L892_g16465
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	L892_g31277.t1 transcript=L892_g31277.t1 gene=L892_g31277, L892_g24029.t1 transcript=L892_g24029.t1 gene=L892_g24029
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	L892_g1094.t1 transcript=L892_g1094.t1 gene=L892_g1094, L892_g5046.t1 transcript=L892_g5046.t1 gene=L892_g5046, L892_g27338.t1 transcript=L892_g27338.t1 gene=L892_g27338, L892_g10297.t1 transcript=L892_g10297.t1 gene=L892_g10297
+OG0000571	PAR-2_ isoform c	L892_g28655.t1 transcript=L892_g28655.t1 gene=L892_g28655, L892_g17321.t1 transcript=L892_g17321.t1 gene=L892_g17321, L892_g17322.t1 transcript=L892_g17322.t1 gene=L892_g17322, L892_g27073.t1 transcript=L892_g27073.t1 gene=L892_g27073
+OG0000622	RHO-1_ isoform a	L892_g28440.t1 transcript=L892_g28440.t1 gene=L892_g28440, L892_g6371.t1 transcript=L892_g6371.t1 gene=L892_g6371
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	L892_g23009.t1 transcript=L892_g23009.t1 gene=L892_g23009
+OG0000870	CYK-4	L892_g10627.t1 transcript=L892_g10627.t1 gene=L892_g10627
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	L892_g2297.t1 transcript=L892_g2297.t1 gene=L892_g2297
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	L892_g23788.t1 transcript=L892_g23788.t1 gene=L892_g23788
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	L892_g7566.t2 transcript=L892_g7566.t2 gene=L892_g7566, L892_g7566.t1 transcript=L892_g7566.t1 gene=L892_g7566
+OG0006648	LGL-1	L892_g1306.t1 transcript=L892_g1306.t1 gene=L892_g1306

@@ -1,0 +1,20 @@
+Orthogroup	c_elegans_ref_protein	c_brenneri
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	CBN10086 wormpep=CN30014 gene=WBGene00148811 locus=Cbn-src-1.1 status=Predicted, CBN04712 wormpep=CN29705 gene=WBGene00143437 locus=Cbn-src-1.2 status=Predicted
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d	CBN06194 wormpep=CN02220 gene=WBGene00144919 locus=Cbn-par-1 status=Partially_confirmed
+OG0000002	PAR-1_ isoform e	CBN20317 wormpep=CN37308 gene=WBGene00159042 status=Predicted
+OG0000006	NMY-2	CBN00030 wormpep=CN22225 gene=WBGene00138755 locus=Cbn-nmy-2 status=Partially_confirmed, CBN01678 wormpep=CN16689 gene=WBGene00140403 status=Predicted, CBN05138 wormpep=CN11360 gene=WBGene00143863 status=Predicted, CBN04060 wormpep=CN01995 gene=WBGene00142785 status=Predicted
+OG0000239	CDC-42	CBN06624 wormpep=CN13072 gene=WBGene00145349 locus=Cbn-cdc-42 status=Partially_confirmed, CBN31246 wormpep=CN13072 gene=WBGene00193211 status=Predicted
+OG0000300	PKC-3	CBN11897 wormpep=CN08896 gene=WBGene00150622 locus=Cbn-pkc-3 status=Partially_confirmed, CBN16602 wormpep=CN08896 gene=WBGene00155327 status=Partially_confirmed
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CBN00112 wormpep=CN21971 gene=WBGene00138837 locus=Cbn-ect-2 status=Partially_confirmed
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CBN16706 wormpep=CN15444 gene=WBGene00155431 status=Partially_confirmed, CBN14094 wormpep=CN15444 gene=WBGene00152819 locus=Cbn-air-1 status=Partially_confirmed
+OG0000571	PAR-2_ isoform b	CBN01791 wormpep=CN13980 gene=WBGene00140516 locus=Cbn-par-2 status=Partially_confirmed
+OG0000622	RHO-1_ isoform a	CBN16938 wormpep=CN14522 gene=WBGene00155663 locus=Cbn-rho-1 status=Confirmed
+OG0000822	PAR-5_ isoform a	CBN10604 wormpep=CN14976 gene=WBGene00149329 locus=Cbn-par-5 status=Confirmed, CBN02840 wormpep=CN31693 gene=WBGene00141565 status=Partially_confirmed
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CBN21254 wormpep=CN21618 gene=WBGene00159979 locus=Cbn-par-3 status=Partially_confirmed
+OG0000870	CYK-4	CBN13447 wormpep=CN38287 gene=WBGene00152172 locus=Cbn-cyk-4 status=Partially_confirmed
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CBN13779 wormpep=CN11750 gene=WBGene00152504 locus=Cbn-cdc-37 status=Partially_confirmed
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CBN21944 wormpep=CN05765 gene=WBGene00160669 locus=Cbn-par-4 status=Partially_confirmed
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CBN21063 wormpep=CN24064 gene=WBGene00159788 status=Predicted, CBN09838 wormpep=CN28076 gene=WBGene00148563 locus=Cbn-par-6 status=Partially_confirmed
+OG0006104	MES-1	CBN12749 wormpep=CN03015 gene=WBGene00151474 status=Predicted
+OG0006648	LGL-1	CBN05606 wormpep=CN25927 gene=WBGene00144331 locus=Cbn-lgl-1 status=Predicted
+OG0011556	GPR-2, GPR-1	CBN20599 wormpep=CN19403 gene=WBGene00159324 status=Partially_confirmed

@@ -1,0 +1,21 @@
+Orthogroup	c_elegans_ref_protein	c_briggsae
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a	CBG22259a wormpep=CBP43056 gene=WBGene00040862 locus=Cbr-src-1 status=Confirmed uniprot=A8Y1X2, CBG22259b wormpep=CBP40455 gene=WBGene00040862 locus=Cbr-src-1 status=Confirmed
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d	CBG04756l wormpep=CBP38215 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed, CBG04756j wormpep=CBP41914 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed, CBG04756c wormpep=CBP41783 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed
+OG0000002	PAR-1_ isoform e	CBG04756g wormpep=CBP43455 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed, CBG04756d wormpep=CBP44567 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed
+OG0000002	PAR-1_ isoform h	CBG04756n wormpep=CBP43548 gene=WBGene00027371 locus=Cbr-par-1 status=Partially_confirmed, CBG04756h wormpep=CBP45913 gene=WBGene00027371 locus=Cbr-par-1 status=Partially_confirmed, CBG04756a wormpep=CBP47106 gene=WBGene00027371 locus=Cbr-par-1 status=Confirmed uniprot=A8WYE4, CBG04756i wormpep=CBP39450 gene=WBGene00027371 locus=Cbr-par-1 status=Partially_confirmed
+OG0000006	NMY-2	CBG08250 wormpep=CBP02011 gene=WBGene00030079 locus=Cbr-nmy-2 status=Partially_confirmed uniprot=A8X651 insdc=CAP28112.2
+OG0000239	CDC-42	CBG13013 wormpep=CBP09230 gene=WBGene00033857 locus=Cbr-cdc-42 status=Confirmed uniprot=A8XGW3 insdc=CAP31887.1
+OG0000300	PKC-3	CBG02381 wormpep=CBP00699 gene=WBGene00025443 locus=Cbr-pkc-3 status=Confirmed uniprot=A8WUG4 insdc=CAP24126.3
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	CBG03012a wormpep=CBP47288 gene=WBGene00025958 locus=Cbr-ect-2 status=Confirmed uniprot=A8WT00, CBG03012b wormpep=CBP44667 gene=WBGene00025958 locus=Cbr-ect-2 status=Predicted
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	CBG11321 wormpep=CBP02759 gene=WBGene00032455 status=Predicted uniprot=G2J687 insdc=CAP30624.1, CBG24785 wormpep=CBP02759 gene=WBGene00042822 locus=Cbr-air-1 status=Predicted uniprot=G2J687 insdc=CAP21319.1
+OG0000571	PAR-2_ isoform b	CBG15155 wormpep=CBP38157 gene=WBGene00035482 locus=Cbr-par-2 status=Confirmed uniprot=A8XLT6 insdc=CAP33590.3
+OG0000622	RHO-1_ isoform a	CBG13664 wormpep=CBP09433 gene=WBGene00034399 locus=Cbr-rho-1 status=Confirmed uniprot=A8XIF5 insdc=CAP32429.1
+OG0000822	PAR-5_ isoform a	CBG06174 wormpep=CBP01528 gene=WBGene00028484 locus=Cbr-par-5 status=Confirmed uniprot=A8X0R4 insdc=CAP26224.1
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	CBG08987b wormpep=CBP44679 gene=WBGene00030664 locus=Cbr-par-3 status=Partially_confirmed, CBG08987a wormpep=CBP47227 gene=WBGene00030664 locus=Cbr-par-3 status=Partially_confirmed uniprot=A8X828
+OG0000870	CYK-4	CBG18263b wormpep=CBP41119 gene=WBGene00037714 locus=Cbr-cyk-4 status=Confirmed, CBG18263a wormpep=CBP04299 gene=WBGene00037714 locus=Cbr-cyk-4 status=Confirmed uniprot=A8XSA2
+OG0002590	CDC-37_ isoform a, CDC-37_ isoform b	CBG07091 wormpep=CBP15820 gene=WBGene00029255 locus=Cbr-cdc-37 status=Confirmed uniprot=A8X3Q4 insdc=CAP27264.1
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	CBG05647 wormpep=CBP15405 gene=WBGene00028053 locus=Cbr-par-4 status=Confirmed uniprot=A8X0C4 insdc=CAP26084.2
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	CBG08713 wormpep=CBP16343 gene=WBGene00030458 locus=Cbr-par-6 status=Partially_confirmed uniprot=A8X780 insdc=CAP28491.1
+OG0006104	MES-1	CBG16200 wormpep=CBP10181 gene=WBGene00036222 status=Confirmed uniprot=A8XNW5 insdc=CAP34205.2
+OG0006648	LGL-1	CBG08100 wormpep=CBP41056 gene=WBGene00029963 locus=Cbr-lgl-1 status=Confirmed uniprot=A8X5T5 insdc=CAP27996.2
+OG0011556	GPR-2, GPR-1	CBG10100 wormpep=CBP16708 gene=WBGene00031578 status=Confirmed uniprot=A8XAE1 insdc=CAP29609.2

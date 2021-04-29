@@ -1,0 +1,12 @@
+Orthogroup	c_elegans_ref_protein	b_pahangi
+OG0000000	SRC-1_ isoform b, SRC-1_ isoform a, SRC-1_ isoform c	BPAG_0000203001-mRNA-1 transcript=BPAG_0000203001-mRNA-1 gene=BPAG_0000203001
+OG0000002	PAR-1_ isoform c, PAR-1_ isoform g, PAR-1_ isoform f, PAR-1_ isoform j, PAR-1_ isoform a, PAR-1_ isoform b, PAR-1_ isoform d, PAR-1_ isoform e	BPAG_0000084801-mRNA-1 transcript=BPAG_0000084801-mRNA-1 gene=BPAG_0000084801
+OG0000002	PAR-1_ isoform i, PAR-1_ isoform h	BPAG_0000084901-mRNA-1 transcript=BPAG_0000084901-mRNA-1 gene=BPAG_0000084901
+OG0000239	CDC-42	BPAG_0000193001-mRNA-1 transcript=BPAG_0000193001-mRNA-1 gene=BPAG_0000193001
+OG0000300	PKC-3	BPAG_0000155501-mRNA-1 transcript=BPAG_0000155501-mRNA-1 gene=BPAG_0000155501
+OG0000446	ECT-2_ isoform a, ECT-2_ isoform b	BPAG_0000951101-mRNA-1 transcript=BPAG_0000951101-mRNA-1 gene=BPAG_0000951101
+OG0000457	NP_505119.1 Protein kinase domain-containing protein [Caenorhabditis elegans]	BPAG_0000916901-mRNA-1 transcript=BPAG_0000916901-mRNA-1 gene=BPAG_0000916901, BPAG_0000915901-mRNA-1 transcript=BPAG_0000915901-mRNA-1 gene=BPAG_0000915901
+OG0000571	PAR-2_ isoform c	BPAG_0001333501-mRNA-1 transcript=BPAG_0001333501-mRNA-1 gene=BPAG_0001333501
+OG0000834	PAR-3_ isoform h, PAR-3_ isoform e, PAR-3_ isoform d, PAR-3_ isoform i, PAR-3_ isoform a, PAR-3_ isoform b, PAR-3_ isoform f, PAR-3_ isoform g, PAR-3_ isoform c, PAR-3_ isoform j	BPAG_0000059801-mRNA-1 transcript=BPAG_0000059801-mRNA-1 gene=BPAG_0000059801
+OG0002713	PAR-4_ isoform c, PAR-4_ isoform a, PAR-4_ isoform b	BPAG_0000244201-mRNA-1 transcript=BPAG_0000244201-mRNA-1 gene=BPAG_0000244201
+OG0002813	PAR-6_ isoform a, PAR-6_ isoform b	BPAG_0000081701-mRNA-1 transcript=BPAG_0000081701-mRNA-1 gene=BPAG_0000081701
